@@ -229,6 +229,8 @@ So far, we have done several projects with the help of Paddle Quantum as a power
 
 [7] Cao, Chenfeng, and Xin Wang. "Noise-Assisted Quantum Autoencoder." Physical Review Applied 15.5 (2021): 054012. [[pdf]](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.054012)
 
+[8] T. Kabengele, Y. M. Lokare, J. B. Marston, and B. M. Rubenstein. "Modeling Stochastic Chemical Kinetics on Quantum Computers". arXiv preprint arXiv:2404.08770 (2024). [[pdf]](https://doi.org/10.48550/arXiv.2404.08770)
+
 ## Frequently Asked Questions
 
 1. **Question:** What is quantum machine learning? What are the applications?
